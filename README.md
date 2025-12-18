@@ -28,7 +28,7 @@ Survey data covering attributes such as:
 
 The perceptual map below visualizes how toothpaste attributes cluster across two latent dimensions—clinical dental protection and cosmetic appeal.
 
-![Factor Analysis Map](visuals/factor_map.png)
+![Factor Analysis Map](visuals/factor_map_png)
 
 ## Tools
 Python, Pandas, Scikit-learn, Matplotlib
