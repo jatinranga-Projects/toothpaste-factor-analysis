@@ -24,6 +24,11 @@ Survey data covering attributes such as:
   - Cosmetic and sensory appeal
 - Most attributes load strongly on only one dimension
 - No feature strongly bridges both, indicating a potential positioning opportunity
+## Factor Map Visualization
+
+The perceptual map below visualizes how toothpaste attributes cluster across two latent dimensions—clinical dental protection and cosmetic appeal.
+
+![Factor Analysis Map](visuals/factor_map.png)
 
 ## Tools
 Python, Pandas, Scikit-learn, Matplotlib
